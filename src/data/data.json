@@ -1,0 +1,15 @@
+{
+    "Header": {
+        "title": "Bine ai venit la DeividOptics!",
+        "paragraph": " Nimic mai presus decât viziunea. "
+    },
+    "Despre" : {
+        "paragraph":" Salutare, mă numesc David și lucrez în domeniu din 2018. Din toată experiența de până acum pot spune că fotografia mi-a schimbat viața, explicându-mi că nu se bazează numai pe cunoștințe tehnice, cât și pe relații interumane. S-ar putea să greșesc, dar cred că cel mai bun rezultat se obține atunci când se stabilește o conexiune între subiect și cel din spatele camerei."
+    },
+    "Contact": {
+        "Telefon": "0756681417",
+        "Email": "david_capragiu@yahoo.com",
+        "Facebook": "https://www.facebook.com/david.capragiu",
+        "Instagram": "https://www.instagram.com/deividoptics/"
+    }
+}
